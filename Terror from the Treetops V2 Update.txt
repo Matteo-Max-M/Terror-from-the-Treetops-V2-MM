@@ -1,0 +1,11 @@
+Terror from the Treetops V2 Update:
+
+- Added details to the crash scene.
+
+- Included new landmark near crash that can be investigated.
+
+- Updated nearly all text for endings.
+
+- Sprite tweaks.
+
+- Added more sound effects.
